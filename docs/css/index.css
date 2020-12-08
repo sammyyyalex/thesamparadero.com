@@ -7,8 +7,26 @@
     background-color:#FEFEF4;
 }
 
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#hello{
+    font-size:13rem;/*144px;*/
+    color:white;
+}
+
+#subhead{
+    margin-top:7rem;
+    font-size:1.25em;
+    color:white;
+}
+
 .copyright {
-    padding: 28px 0;
+    padding: 28px 0px;
     margin-top: 55px;
     background-color: #FEFEF4; }
 .copyright span,
@@ -17,6 +35,5 @@
     -webkit-transition: all 0.3s linear;
     -o-transition: all 0.3s linear;
     transition: all 0.3s linear; }
-.copyright a:hover {
-    color:#007bff; }
+
 
