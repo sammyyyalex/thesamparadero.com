@@ -1,10 +1,16 @@
 .container-fluid{
     padding: 0px;
     font-family: 'Anonymous Pro', monospace;
+    background-size:cover;
 }
 
 .navbar {
     background-color:#FEFEF4;
+}
+
+body{
+    padding-top:50px;
+    padding-bottom: -70px;
 }
 
 .centered {
@@ -17,6 +23,7 @@
 #heroImage{
     height:100%;
     width:100%;
+    background-size:cover !important;
 }
 
 #hello{
