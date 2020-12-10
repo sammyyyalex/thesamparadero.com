@@ -1,5 +1,5 @@
 .container-fluid{
-    padding: 2em;
+    padding:0;
     font-family: 'Anonymous Pro', monospace;
 }
 
@@ -9,6 +9,15 @@
 
 body{
     padding-top:70px;
+}
+
+
+#aboutImage{
+    padding:0 !important;
+    margin-left:0;
+    /*height:100%;*/
+    width:100%;
+    background-size:cover !important;
 }
 
 .copyright {
