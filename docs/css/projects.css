@@ -1,0 +1,27 @@
+.container-fluid{
+    padding: 0px;
+    font-family: 'Anonymous Pro', monospace;
+    background-size:cover;
+}
+
+.navbar {
+    background-color:#FEFEF4;
+    font-size:1.1em !important;
+}
+
+body{
+    padding-top:70px;
+}
+
+.copyright {
+    padding: 28px 0px;
+    margin-top: 0px;/*55px;*/
+    background-color: #FEFEF4; }
+.copyright span,
+.copyright a {
+    color: #878787;
+    -webkit-transition: all 0.3s linear;
+    -o-transition: all 0.3s linear;
+    transition: all 0.3s linear; }
+
+
