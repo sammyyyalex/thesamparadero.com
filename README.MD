@@ -1,3 +1,5 @@
+A professional portfolio of all my notable work.
+
 Website: https://thesamparadero.com/
 
 Github Repo: https://github.com/sammyyyalex/thesamparadero.com
