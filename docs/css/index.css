@@ -6,7 +6,7 @@
 
 .navbar {
     background-color:#FEFEF4;
-    font-size:1.2vw !important;
+    font-size:1.5vw !important;
 }
 
 body{
@@ -15,7 +15,7 @@ body{
 }
 
 .centered {
-    position: fixed;
+    position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
