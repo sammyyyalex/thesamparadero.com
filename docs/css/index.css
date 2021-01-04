@@ -15,7 +15,7 @@ body{
 }
 
 .centered {
-    position: absolute;
+    position: fixed;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -28,18 +28,18 @@ body{
 }
 
 #hello{
-    font-size:13rem;
+    font-size:1300%;
     color:white;
 }
 
 #subhead{
-    margin-top:7rem;
+    margin-top:7%;
     font-size:1.25em;
     color:white;
 }
 
 #button{
-    margin-top: 11rem;
+    margin-top: 12%;
 }
 
 .elite {
